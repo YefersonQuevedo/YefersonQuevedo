@@ -140,7 +140,7 @@ Sistema de reconocimiento facial implementado con técnicas de Machine Learning.
 - 📧 Email: [yeferson0160@hotmail.com](mailto:yeferson0160@hotmail.com)
 - 💼 LinkedIn: [Yeferson Quevedo](https://www.linkedin.com/in/yeferson-q-84701378/)
 - 🐙 GitHub: [@YefersonQuevedo](https://github.com/YefersonQuevedo)
-- 📱 Teléfono: + (57) 3234965424
+
 
 ---
 
