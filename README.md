@@ -1,4 +1,4 @@
-# Hola, soy Yeferson Andrés Quevedo Gutiérrez 👋
+# Hola 👋
 
 <div align="center">
 
