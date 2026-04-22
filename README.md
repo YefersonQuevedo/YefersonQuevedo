@@ -1,155 +1,178 @@
-# Hola 👋
+<div align="center">
+  <img src="header.svg" width="100%" alt="Yeferson Quevedo · Ingeniero en Sistemas" />
+</div>
+
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeferson-q-84701378/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YefersonQuevedo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeferson0160@hotmail.com)
+[![GitHub](https://img.shields.io/badge/YefersonQuevedo-c8922a?style=flat-square&logo=github&logoColor=08060f)](https://github.com/YefersonQuevedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c8922a?style=flat-square&logo=linkedin&logoColor=08060f)](https://linkedin.com/in/yeferson-q-84701378)
+[![Gmail](https://img.shields.io/badge/Gmail-c8922a?style=flat-square&logo=gmail&logoColor=08060f)](mailto:tendidosaitolima@gmail.com)
+[![Colombia](https://img.shields.io/badge/Bogotá_D.C.-Colombia-c8922a?style=flat-square&logo=googlemaps&logoColor=08060f)](#)
 
 </div>
 
-## 🚀 Sobre mí
-
-Ingeniero de Sistemas con experiencia en desarrollo de aplicaciones de escritorio, web e IA, apasionado por la aplicación de la Inteligencia Artificial y nuevas tecnologías que puedan brindar soluciones innovadoras.
-
-- 💼 Actualmente: Desarrollador Full Stack & Especialista en IA
-- 🎓 Ingeniero en Sistemas - Universidad Piloto de Colombia
-- 🌱 Aprendiendo constantemente sobre IA Generativa, LLMs y nuevas tecnologías
-- 🔭 Trabajando en proyectos de automatización, sistemas ERP y soluciones de IA
-- 📍 Ubicación: Bogotá D.C., Colombia
-
-## 💻 Stack Tecnológico
-
-### Lenguajes de Programación
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Desarrollo Web & Backend
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Inteligencia Artificial & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-
-### Herramientas & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-### Automatización
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
-
-## 🎯 Proyectos Destacados
-
-### 🏭 Sistema ERP Textil
-Sistema completo de gestión empresarial para optimizar procesos de producción, inventario y ventas en empresa textil.
-- **Tech Stack:** C#, .NET, MySQL, DevExpress
-- **Características:** Gestión de inventario, control de producción, reportes avanzados
-
-### 🤖 Workflow Automation con n8n & TypeScript
-Automatización de procesos empresariales mediante flujos de trabajo personalizados.
-- **Tech Stack:** n8n, TypeScript, Node.js, REST APIs
-- [Ver Repositorio](https://github.com/YefersonQuevedo/n8n-typescript-example)
-
-### 📈 Trading Pro Análisis
-Sistema de análisis financiero con integración a Interactive Brokers para análisis técnico y fundamental.
-- **Tech Stack:** Python, Interactive Brokers API, Pandas
-- [Ver Repositorio](https://github.com/YefersonQuevedo/tradingproanalisis)
-
-### 🎨 Reescalado de Imágenes con IA
-Herramienta de upscaling de imágenes usando IA, desde 1080p hasta 16K.
-- **Tech Stack:** Python, Deep Learning, Computer Vision
-- [Ver Repositorio](https://github.com/YefersonQuevedo/rescaladoImagenes)
-
-### 💰 Facturación Electrónica Colombia
-Sistema completo de facturación electrónica integrado con la DIAN.
-- **Tech Stack:** C#, Python, DIAN API, XML
-- **Estado:** En producción
-- [Ver Repositorio](https://github.com/YefersonQuevedo/facturacion-electronica-colombia)
-
-### 🎮 Elden Ring Save Game Copy
-Utilidad para gestión y transferencia de archivos guardados de Elden Ring.
-- **Tech Stack:** Python, File Management
-- [Ver Repositorio](https://github.com/YefersonQuevedo/eldenringsavegamecopy)
-
-### 👁️ Reconocimiento Facial con OpenCV
-Sistema de reconocimiento facial implementado con técnicas de Machine Learning.
-- **Tech Stack:** Python, OpenCV, TensorFlow, Machine Learning
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Yeferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=YefersonQuevedo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YefersonQuevedo&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YefersonQuevedo&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 Logros Destacados
-
-- ⚡ **40% reducción** en tiempo de procesos mediante automatización
-- 🖥️ **15+ servidores** gestionados en producción
-- ✅ **99.9% uptime** en sistemas críticos
-- 🤖 **50+ automatizaciones** implementadas con PowerShell, Bash y n8n
-
-## 🎓 Educación & Certificaciones
-
-- **Ingeniería en Sistemas** - Universidad Piloto de Colombia (2022)
-- **Talento Tech 4 Inteligencia Artificial** (Nivel Avanzado) - MinTic (2024)
-- **Diplomado Desarrollo de Aplicaciones Móviles** - Universidad Nacional de Colombia (2022)
-- **Cursos de Programación** - Platzi (2022-2024)
-
-## 💼 Servicios
-
-- 🖥️ Desarrollo de Software a Medida
-- 🧠 Soluciones de Inteligencia Artificial
-- ⚙️ Automatización de Procesos (RPA)
-- 🏢 Desarrollo de Sistemas ERP
-- 💡 Consultoría en Sistemas
-- 🗄️ Administración de Servidores
-
-## 📫 Contacto
-
-¿Interesado en colaborar o necesitas una solución tecnológica? ¡Hablemos!
-
-- 📧 Email: [yeferson0160@hotmail.com](mailto:yeferson0160@hotmail.com)
-- 💼 LinkedIn: [Yeferson Quevedo](https://www.linkedin.com/in/yeferson-q-84701378/)
-- 🐙 GitHub: [@YefersonQuevedo](https://github.com/YefersonQuevedo)
-
+<br>
 
 ---
 
+<br>
+
+### `01` — Perfil Profesional
+
+> *"Ingeniero que construye sistemas inteligentes, automatiza lo imposible y renace en cada desafío."*
+
+Ingeniero de Sistemas con experiencia en desarrollo de aplicaciones de escritorio, web e IA.
+Experto en **C#**, **Java** y **Python**, con sólidos conocimientos en Machine Learning y Deep Learning
+usando OpenCV y TensorFlow. Apasionado por la aplicación de **LLMs e IA Generativa** en soluciones
+innovadoras. Busco contribuir a proyectos desafiantes donde la tecnología genere impacto real.
+
+<br>
+
+---
+
+<br>
+
+### `02` — Stack Tecnológico
+
 <div align="center">
 
-### 💡 "La tecnología es mejor cuando acerca a las personas" - Matt Mullenweg
+**`LENGUAJES`**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YefersonQuevedo&color=blueviolet&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-c8922a?style=flat-square&logo=csharp&logoColor=08060f)
+![Java](https://img.shields.io/badge/Java-c8922a?style=flat-square&logo=openjdk&logoColor=08060f)
+![Python](https://img.shields.io/badge/Python-c8922a?style=flat-square&logo=python&logoColor=08060f)
+![JavaScript](https://img.shields.io/badge/JavaScript-c8922a?style=flat-square&logo=javascript&logoColor=08060f)
+![TypeScript](https://img.shields.io/badge/TypeScript-c8922a?style=flat-square&logo=typescript&logoColor=08060f)
+![HTML](https://img.shields.io/badge/HTML-c8922a?style=flat-square&logo=html5&logoColor=08060f)
+![CSS](https://img.shields.io/badge/CSS-c8922a?style=flat-square&logo=css3&logoColor=08060f)
+![Kotlin](https://img.shields.io/badge/Kotlin-c8922a?style=flat-square&logo=kotlin&logoColor=08060f)
 
-⭐️ From [YefersonQuevedo](https://github.com/YefersonQuevedo)
+<br>
+
+**`FRAMEWORKS & WEB`**
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-c8922a?style=flat-square&logo=dotnet&logoColor=08060f)
+![Node.js](https://img.shields.io/badge/Node.js-c8922a?style=flat-square&logo=nodedotjs&logoColor=08060f)
+![Vue.js](https://img.shields.io/badge/Vue.js-c8922a?style=flat-square&logo=vuedotjs&logoColor=08060f)
+![React](https://img.shields.io/badge/React-c8922a?style=flat-square&logo=react&logoColor=08060f)
+![FastAPI](https://img.shields.io/badge/FastAPI-c8922a?style=flat-square&logo=fastapi&logoColor=08060f)
+
+<br>
+
+**`IA & MACHINE LEARNING`**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-c8922a?style=flat-square&logo=tensorflow&logoColor=08060f)
+![Keras](https://img.shields.io/badge/Keras-c8922a?style=flat-square&logo=keras&logoColor=08060f)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-c8922a?style=flat-square&logo=scikitlearn&logoColor=08060f)
+![OpenCV](https://img.shields.io/badge/OpenCV-c8922a?style=flat-square&logo=opencv&logoColor=08060f)
+![PyTorch](https://img.shields.io/badge/PyTorch-c8922a?style=flat-square&logo=pytorch&logoColor=08060f)
+![Gradio](https://img.shields.io/badge/Gradio-c8922a?style=flat-square&logoColor=08060f)
+
+<br>
+
+**`LLMs & IA GENERATIVA`**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-c8922a?style=flat-square&logo=openai&logoColor=08060f)
+![Claude](https://img.shields.io/badge/Claude_API-c8922a?style=flat-square&logo=anthropic&logoColor=08060f)
+![Ollama](https://img.shields.io/badge/Ollama-c8922a?style=flat-square&logo=ollama&logoColor=08060f)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-c8922a?style=flat-square&logoColor=08060f)
+![Prompt Eng.](https://img.shields.io/badge/Prompt_Engineering-c8922a?style=flat-square&logoColor=08060f)
+
+<br>
+
+**`AUTOMATIZACIÓN`**
+
+![UiPath](https://img.shields.io/badge/UiPath-c8922a?style=flat-square&logo=uipath&logoColor=08060f)
+![n8n](https://img.shields.io/badge/n8n-c8922a?style=flat-square&logo=n8n&logoColor=08060f)
+![PowerShell](https://img.shields.io/badge/PowerShell-c8922a?style=flat-square&logo=powershell&logoColor=08060f)
+![Bash](https://img.shields.io/badge/Bash-c8922a?style=flat-square&logo=gnubash&logoColor=08060f)
+![AutoIt](https://img.shields.io/badge/AutoIt-c8922a?style=flat-square&logoColor=08060f)
+
+<br>
+
+**`DEVOPS & BASES DE DATOS`**
+
+![Docker](https://img.shields.io/badge/Docker-c8922a?style=flat-square&logo=docker&logoColor=08060f)
+![Linux](https://img.shields.io/badge/Linux-c8922a?style=flat-square&logo=linux&logoColor=08060f)
+![MySQL](https://img.shields.io/badge/MySQL-c8922a?style=flat-square&logo=mysql&logoColor=08060f)
+![MongoDB](https://img.shields.io/badge/MongoDB-c8922a?style=flat-square&logo=mongodb&logoColor=08060f)
+![SQL Server](https://img.shields.io/badge/SQL_Server-c8922a?style=flat-square&logo=microsoftsqlserver&logoColor=08060f)
+![Git](https://img.shields.io/badge/Git-c8922a?style=flat-square&logo=git&logoColor=08060f)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### `03` — Experiencia Laboral
+
+**Analista de Desarrollo de Software** &nbsp;·&nbsp; *TOTVS México* &nbsp;·&nbsp; `2023`
+
+&nbsp;&nbsp;▹ Análisis y desarrollo de soluciones de software empresarial.
+
+<br>
+
+**Desarrollador Full Stack & Administrador de Sistemas** &nbsp;·&nbsp; *Creaciones Q&G SAS* &nbsp;·&nbsp; `Ene 2021 — May 2023`
+
+&nbsp;&nbsp;▹ Despliegue y administración de servidores MySQL en producción.<br>
+&nbsp;&nbsp;▹ Desarrollo y mantenimiento de ERP para empresa textil (C# · .NET · DevExpress).<br>
+&nbsp;&nbsp;▹ Creación y mantenimiento de la página web corporativa.
+
+<br>
+
+> 🏆 &nbsp;**Logro académico** — Ganador del Concurso de Programación Universitaria · 2016
+
+<br>
+
+---
+
+<br>
+
+### `04` — Formación & Certificaciones
+
+| Título | Institución | Año |
+|:-------|:------------|----:|
+| Ingeniería en Sistemas | Universidad Piloto de Colombia | `2022` |
+| Talento Tech4 — IA Nivel Avanzado | MinTIC · ML, Deep Learning, LLMs, OpenCV | `2024` |
+| Diplomado Desarrollo Apps Móviles | Universidad Nacional · Kotlin, Vue.js, Firebase | `2022` |
+| Cursos y Diplomados de Programación | Platzi | `2022–2024` |
+| Bachillerato Académico | Col. Militar Liceo Moderno, Girardot | `2015` |
+
+<br>
+
+---
+
+<br>
+
+### `05` — Estadísticas GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YefersonQuevedo&show_icons=true&hide_border=true&title_color=c8922a&icon_color=c8922a&text_color=f0ebe0&bg_color=08060f&count_private=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YefersonQuevedo&layout=compact&hide_border=true&title_color=c8922a&text_color=f0ebe0&bg_color=08060f&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YefersonQuevedo&theme=dark&hide_border=true&ring=c8922a&fire=c8922a&currStreakLabel=c8922a&background=08060f&dates=f0ebe050&currStreakNum=f0ebe0&sideLabels=f0ebe050&sideNums=f0ebe0" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+*YQ™ &nbsp;·&nbsp; Ing. Sistemas &nbsp;·&nbsp; Bogotá D.C. &nbsp;·&nbsp; © 2026 Yeferson Andrés Quevedo Gutiérrez*
 
 </div>
