@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="header.svg" width="100%" alt="Yeferson Quevedo · Ingeniero en Sistemas" />
-</div>
+
 
 <br>
 
