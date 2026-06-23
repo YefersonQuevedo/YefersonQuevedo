@@ -135,8 +135,8 @@ innovadoras. Busco contribuir a proyectos desafiantes donde la tecnología gener
 
 | Título | Institución | Año |
 |:-------|:------------|----:|
-| Ingeniería en Sistemas | Universidad Piloto de Colombia | `2022` |
 | Talento Tech4 — IA Nivel Avanzado | MinTIC · ML, Deep Learning, LLMs, OpenCV | `2024` |
+| Ingeniería en Sistemas | Universidad Piloto de Colombia | `2022` |
 | Diplomado Desarrollo Apps Móviles | Universidad Nacional · Kotlin, Vue.js, Firebase | `2022` |
 | Cursos y Diplomados de Programación | Platzi | `2022–2024` |
 | Bachillerato Académico | Col. Militar Liceo Moderno, Girardot | `2015` |
