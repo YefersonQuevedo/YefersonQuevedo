@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/YefersonQuevedo-c8922a?style=flat-square&logo=github&logoColor=08060f)](https://github.com/YefersonQuevedo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c8922a?style=flat-square&logo=linkedin&logoColor=08060f)](https://linkedin.com/in/yeferson-q-84701378)
-[![Gmail](https://img.shields.io/badge/Gmail-c8922a?style=flat-square&logo=gmail&logoColor=08060f)](mailto:tendidosaitolima@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-c8922a?style=flat-square&logo=gmail&logoColor=08060f)](mailto:yeferson0160@hotmail.com)
 [![Colombia](https://img.shields.io/badge/Bogotá_D.C.-Colombia-c8922a?style=flat-square&logo=googlemaps&logoColor=08060f)](#)
 
 </div>
